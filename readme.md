@@ -1,3 +1,7 @@
+
+[Fixed] How to install Memcache in XAMPP, on window 10 successfully.
+Step by Step Guide - https://techplumber.blogspot.com/2018/06/fixed-how-to-install-memcache-in-xampp.html
+
 Sample code- 
 
 ````
